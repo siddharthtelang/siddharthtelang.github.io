@@ -1,0 +1,43 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Face and Pose Classification
+  i18n: Face-and-Pose-Classification
+  gh_user: siddharthtelang
+  repo: Face-and-Pose-Classification
+  img: /static/assets/img/landing/face_classification.png
+  desc: Implementing different steps for face detection (class and psoe) using various Classifiers.
+
+- name: Hand Written Digits Recognition
+  i18n: Hand-Written-Digits-Recognition
+  gh_user: siddharthtelang
+  repo: Hand-Written-Digits-Recognition
+  img: /static/assets/img/landing/hand_written.png
+  desc: Hand written digit recognition (MINST dataset) using Logistic Regression, SVM, Deep Neural Nets, and Transfer Learning.
+
+
+- name: Nurse Bot
+  i18n: nurse-bot
+  gh_user: siddharthtelang
+  repo: nurse-bot
+  img: /static/assets/img/landing/guidance_task.gif
+  desc: ROS based service-triggered indoor guidance and delivery robot for hospitals.
+
+
+- name: ARIAC Robotics Challenge 2020
+  i18n: quad-control-rl
+  gh_user: siddharthtelang
+  repo: ARIAC_Robotics
+  # url: https://google.com
+  img: /static/assets/img/landing/ariac.gif
+  desc: Simulation-based control design and motion planning for a 2 arm gantry in a manufacturing environment using ROS services, subscriber-publisher.
+
+- name: Human Detector and Tracker
+  i18n: human-detector-and-tracker
+  gh_user: siddharthtelang
+  repo: human-detector-and-tracker
+  # url: https://google.com
+  img: /static/assets/img/landing/human_detector.gif
+  desc: Module to detect and track humans and return their coordinate position.
+
+

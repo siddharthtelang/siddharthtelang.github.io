@@ -1,0 +1,60 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: University of Maryland, College Park
+    i18n: company_a
+  desc:
+    detail: Teaching Assistant for INST 326 (Object Oriented Programming for Information Science)
+    i18n: company_a_desc
+  date:
+    detail: Sept 2021 - Present
+    i18n: company_a_date
+  job:
+    detail: Graduate Teaching Assistant
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: CDCL Lab, Maryland Robotics Center
+    i18n: company_a
+  desc:
+    detail: Autonomous e-Scooter with intelligent self driving and parking system
+    i18n: company_a_desc
+  date:
+    detail: May 2021 - Present
+    i18n: company_a_date
+  job:
+    detail: Research Assistant
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: OnePlus
+    i18n: company_b
+  desc:
+    detail: 
+    i18n: company_b_desc
+  date:
+    detail: Aug 2019 - Dec 2020
+    i18n: company_b_date
+  job:
+    detail: Sr. Telephony Framework Engineer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: L&T Technology Services Limited
+    i18n: company_b
+  desc:
+    detail: Worked for Zebra Technologies on their rugged, hand-held smartphone devices for various network operator customization and certifications.
+    i18n: company_b_desc
+  date:
+    detail: Jun 2016 - Jul 2019
+    i18n: company_b_date
+  job:
+    detail: Engineer
+    i18n: company_b_job
+  icon: fa-plus-square
+
