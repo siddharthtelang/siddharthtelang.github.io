@@ -40,4 +40,12 @@
   img: /static/assets/img/landing/human_detector.gif
   desc: Module to detect and track humans and return their coordinate position.
 
+- name: RRT Non-Holonomic Robots 4-Wheel
+  i18n: RRT-Non-Holonomic-Robots-4-Wheel
+  gh_user: siddharthtelang
+  repo: RRT-Non-Holonomic-Robots-4-Wheel
+  # url: https://google.com
+  img: /static/assets/img/landing/goal_5-2-270.png
+  desc: Path planning for Holonomic robots - 4 wheel using RRT Algorithm
+
 
