@@ -30,20 +30,6 @@
   icon: fa-plus-square
   present: true
 
-# - name:
-#     detail: Division of IT, University of Maryland
-#     i18n: company_c
-#   desc:
-#     detail: -	Designed webhook handlers, worked on AWS Lambda, Pytest, HTTP POST/GET requests, and Docker
-#     i18n: company_c_desc
-#   date:
-#     detail: May 2020 - August 2020
-#     i18n: company_c_date
-#   job:
-#     detail: Student IOC Engineer
-#     i18n: company_c_job
-#   icon: fa-plus-square
-
 - name:
     detail: OnePlus India R&D Center
     i18n: company_b
