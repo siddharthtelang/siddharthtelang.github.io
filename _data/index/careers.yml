@@ -17,58 +17,58 @@
 
 - name:
     detail: CDCL, Maryland Robotics Center
-    i18n: company_b
+    i18n: company_a
   desc:
     detail: Autonomous e-Scooter with intelligent self driving and parking system
-    i18n: company_b_desc
+    i18n: company_a_desc
   date:
     detail: May 2021 - Present
-    i18n: company_b_date
+    i18n: company_a_date
   job:
     detail: Research Assistant
-    i18n: company_b_job
+    i18n: company_a_job
   icon: fa-plus-square
   present: true
 
-- name:
-    detail: Division of IT, University of Maryland
-    i18n: company_c
-  desc:
-    detail: -	Designed webhook handlers, worked on AWS Lambda, Pytest, HTTP POST/GET requests, and Docker
-    i18n: company_c_desc
-  date:
-    detail: May 2020 - August 2020
-    i18n: company_c_date
-  job:
-    detail: Student IOC Engineer
-    i18n: company_c_job
-  icon: fa-plus-square
+# - name:
+#     detail: Division of IT, University of Maryland
+#     i18n: company_c
+#   desc:
+#     detail: -	Designed webhook handlers, worked on AWS Lambda, Pytest, HTTP POST/GET requests, and Docker
+#     i18n: company_c_desc
+#   date:
+#     detail: May 2020 - August 2020
+#     i18n: company_c_date
+#   job:
+#     detail: Student IOC Engineer
+#     i18n: company_c_job
+#   icon: fa-plus-square
 
 - name:
     detail: OnePlus India R&D Center
-    i18n: company_d
+    i18n: company_b
   desc:
     detail: -	Development of Android telephony framework, modem firmware, and network software customization of OnePlus mobile phones
-    i18n: company_d_desc
+    i18n: company_b_desc
   date:
     detail: Aug 2019 - Dec 2020
-    i18n: company_d_date
+    i18n: company_b_date
   job:
     detail: Sr. Telephony Framework Engineer (Modem firmware)
-    i18n: company_d_job
+    i18n: company_b_job
   icon: fa-plus-square
 
 - name:
     detail: L&T Technology Services Limited
-    i18n: company_e
+    i18n: company_c
   desc:
     detail: Worked for Zebra Technologies on their rugged, hand-held smartphone devices for various network operator customization and certifications.
-    i18n: company_e_desc
+    i18n: company_c_desc
   date:
     detail: Jun 2016 - Jul 2019
-    i18n: company_e_date
+    i18n: company_c_date
   job:
     detail: Software Engineer
-    i18n: company_e_job
+    i18n: company_c_job
   icon: fa-plus-square
 
