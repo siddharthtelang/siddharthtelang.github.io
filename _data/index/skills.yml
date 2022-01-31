@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: C, C++, JAVA, Python, UML, Tensorflow, numpy, ROS, Gazebo, Computer Vision, Machine Learning, Bayesian Statistics, Deep Learning, AWS, GIT, Control Theory, Agile, SDLC
+aspects: C, C++, JAVA, Python, UML, Tensorflow, numpy, ROS, Gazebo, Computer Vision, Machine Learning, Bayesian Statistics, Deep Learning, AWS, GIT, JIRA, Control Theory, Agile, SDLC
 # percentage: 100, 35, 65, 80, 70, 90, 50
