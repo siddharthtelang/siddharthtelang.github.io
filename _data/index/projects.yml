@@ -46,7 +46,7 @@
   repo: RRT-Non-Holonomic-Robots-4-Wheel
   # url: https://google.com
   img: /static/assets/img/landing/goal_5-2-270.png
-  desc: Path planning for Non-Holonomic robots - 4 wheel using RRT Algorithm
+  desc: Parallel Parking path planning for Autonomous Cars
 
 - name: Lane Detection and Turn Prediction for Self-Driving Cars
   i18n: Lane-Detection
@@ -87,5 +87,42 @@
   # url: https://google.com
   img: /static/assets/img/landing/Tag1_Warped.gif
   desc: AR Tag Detection, Decoding, Tracking, and Superimposing image and cube on the tag
+
+- name: Dijkstra and A* Path Planning
+  i18n: dijkstra_and_astar_path_planning
+  gh_user: siddharthtelang
+  repo: dijkstra_and_astar_path_planning
+  # url: https://google.com
+  img: /static/assets/img/landing/AStar-path.gif
+  desc: Dijkstra and A* Path Planning for point robots
+
+- name: BFS Path Planning
+  i18n: BFS-Path-Planning
+  gh_user: siddharthtelang
+  repo: BFS-Path-Planning
+  # url: https://google.com
+  img: /static/assets/img/landing/final__.png
+  desc: Path planning for a point robot on a known map using BFS
+
+- name: Puzzle Solver
+  i18n: 15_Puzzle_Solver
+  gh_user: siddharthtelang
+  repo: 15_Puzzle_Solver
+  # url: https://google.com
+  img: /static/assets/img/landing/15solver.gif
+  desc: 15 Puzzle Solver using Brute Force
+
+- name: Curve-Fitting
+  i18n: Curve-Fitting
+  gh_user: siddharthtelang
+  repo: Curve-Fitting
+  # url: https://google.com
+  img: /static/assets/img/landing/TLS.jpg
+  desc: Curve Fitting using Total Least Square and RANSAC
+
+
+
+
+
 
 
