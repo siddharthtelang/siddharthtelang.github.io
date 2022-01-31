@@ -46,6 +46,46 @@
   repo: RRT-Non-Holonomic-Robots-4-Wheel
   # url: https://google.com
   img: /static/assets/img/landing/goal_5-2-270.png
-  desc: Path planning for Holonomic robots - 4 wheel using RRT Algorithm
+  desc: Path planning for Non-Holonomic robots - 4 wheel using RRT Algorithm
+
+- name: Lane Detection and Turn Prediction for Self-Driving Cars
+  i18n: Lane-Detection
+  gh_user: siddharthtelang
+  repo: Lane-Detection
+  # url: https://google.com
+  img: /static/assets/img/landing/test_video.gif
+  desc: Lane Detection and Turn Prediction for Self-Driving Cars
+
+- name: RRT Holonomic Robots
+  i18n: RRT-Holonomic-Robots
+  gh_user: siddharthtelang
+  repo: RRT-Holonomic-Robots
+  # url: https://google.com
+  img: /static/assets/img/landing/RRT_1.png
+  desc: Path planning for Holonomic robots using RRT
+
+- name: A* Turtle_Bot
+  i18n: A_Star_Turtle_Bot
+  gh_user: siddharthtelang
+  repo: A_Star_Turtle_Bot
+  # url: https://google.com
+  img: /static/assets/img/landing/path_1.gif
+  desc: Path planning for TurtleBot3 using hybrid A*
+
+- name: Depth Using Stereo Vision
+  i18n: Depth-Using-Stereo
+  gh_user: siddharthtelang
+  repo: Depth-Using-Stereo
+  # url: https://google.com
+  img: /static/assets/img/landing/depth_image_1.png
+  desc: Depth estimation using Stereo Vision
+
+- name: AR-Homography
+  i18n: AR-Homography
+  gh_user: siddharthtelang
+  repo: AR-Homography
+  # url: https://google.com
+  img: /static/assets/img/landing/Tag1_Warped.gif
+  desc: AR Tag Detection, Decoding, Tracking, and Superimposing image and cube on the tag
 
 
