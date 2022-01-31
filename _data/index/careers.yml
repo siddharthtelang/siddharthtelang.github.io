@@ -16,7 +16,7 @@
   present: true
 
 - name:
-    detail: CDCL Lab, Maryland Robotics Center
+    detail: CDCL, Maryland Robotics Center
     i18n: company_a
   desc:
     detail: Autonomous e-Scooter with intelligent self driving and parking system
@@ -31,7 +31,7 @@
   present: true
 
 - name:
-    detail: OnePlus
+    detail: OnePlus India R&D
     i18n: company_b
   desc:
     detail: 
@@ -40,7 +40,7 @@
     detail: Aug 2019 - Dec 2020
     i18n: company_b_date
   job:
-    detail: Sr. Telephony Framework Engineer
+    detail: Sr. Telephony Framework Engineer (Modem firmware)
     i18n: company_b_job
   icon: fa-plus-square
 

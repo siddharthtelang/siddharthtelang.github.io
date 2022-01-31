@@ -101,7 +101,7 @@
   gh_user: siddharthtelang
   repo: BFS-Path-Planning
   # url: https://google.com
-  img: /static/assets/img/landing/final__.png
+  img: /static/assets/img/landing/final__.jpg
   desc: Path planning for a point robot on a known map using BFS
 
 - name: Puzzle Solver
