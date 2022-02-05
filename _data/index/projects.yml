@@ -80,12 +80,20 @@
   img: /static/assets/img/landing/depth_image_1.png
   desc: Depth estimation using Stereo Vision
 
-- name: AR-Homography
-  i18n: AR-Homography
+- name: A* Turtle_Bot
+  i18n: A_Star_Turtle_Bot
   gh_user: siddharthtelang
-  repo: AR-Homography
+  repo: A_Star_Turtle_Bot
   # url: https://google.com
-  img: /static/assets/img/landing/Tag1_Warped.gif
+  img: /static/assets/img/landing/path_1.gif
+  desc: Path planning for TurtleBot3 using hybrid A*
+
+- name: Roomba TurtleBot
+  i18n: turtlebot_walker
+  gh_user: siddharthtelang
+  repo: turtlebot_walker
+  # url: https://google.com
+  img: /static/assets/img/landing/Test_2.gif
   desc: AR Tag Detection, Decoding, Tracking, and Superimposing image and cube on the tag
 
 - name: Dijkstra and A* Path Planning
@@ -119,10 +127,3 @@
   # url: https://google.com
   img: /static/assets/img/landing/TLS.jpg
   desc: Curve Fitting using Total Least Square and RANSAC
-
-
-
-
-
-
-
