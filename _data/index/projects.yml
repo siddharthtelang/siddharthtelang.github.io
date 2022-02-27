@@ -64,13 +64,13 @@
   img: /static/assets/img/landing/RRT_1.png
   desc: Path planning for Holonomic robots using RRT
 
-- name: A* Turtle_Bot
-  i18n: A_Star_Turtle_Bot
+- name: AR-Homography
+  i18n: AR-Homography
   gh_user: siddharthtelang
-  repo: A_Star_Turtle_Bot
+  repo: AR-Homography
   # url: https://google.com
-  img: /static/assets/img/landing/path_1.gif
-  desc: Path planning for TurtleBot3 using hybrid A*
+  img: /static/assets/img/landing/Tag1_Warped.gif
+  desc: AR Tag Detection, Decoding, Tracking, and Superimposing image and cube on the tag
 
 - name: Depth Using Stereo Vision
   i18n: Depth-Using-Stereo
