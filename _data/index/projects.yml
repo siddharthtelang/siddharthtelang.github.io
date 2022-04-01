@@ -15,6 +15,12 @@
   img: /static/assets/img/landing/hand_written.png
   desc: Hand written digit recognition (MINST dataset) using Logistic Regression, SVM, Deep Neural Nets, and Transfer Learning.
 
+- name: Fully-Connected-NN
+  i18n: Fully-Connected-NN
+  gh_user: siddharthtelang
+  repo: Fully-Connected-NN
+  img: /static/assets/img/landing/nn.gif
+  desc: Implementations of Forward pass and Backprop from scratch - Linear, Bias, ReLU, Sigmoid, Square Loss, Cross-Entropy Softmax
 
 - name: Nurse Bot
   i18n: nurse-bot
