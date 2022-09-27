@@ -19,10 +19,11 @@
     detail: Dexai Robotics
     i18n: company_a
   desc:
-    detail: |
-            * Designed filter to filter out raw acceleration and velocities from joint sensors and cancel the plan if crossed threshold.
-            * Visual Calibration of robot joints using April-Tag - Planned motion for the 9DOF robot at various waypoints, 
-            capturing the April-Tag images through on-board camera to calculate the joint offsets by optimizing a loss function.
+    detail:
+            1. Designed filter to filter out raw acceleration and velocities from joint sensors and cancel the plan if crossed threshold.
+            |
+            2. Visual Calibration of robot joints using April-Tag - Planned motion for the 9DOF robot at various waypoints, 
+              capturing the April-Tag images through on-board camera to calculate the joint offsets by optimizing a loss function.
     i18n: company_a_desc
   date:
     detail: June 2022 - August 2022
@@ -37,9 +38,10 @@
     detail: CDCL, Maryland Robotics Center
     i18n: company_a
   desc:
-    detail: |
-            * Self-Driving e-Scooter – Successfully incorporated autonomy in the e-Scooter to drive it from point A to point B.
-            * Through the usage of ROS packages for Perception & Path Planning, map generation, visual odometry,
+    detail:
+            1. Self-Driving e-Scooter – Successfully incorporated autonomy in the e-Scooter to drive it from point A to point B.
+            |
+            2. Through the usage of ROS packages for Perception & Path Planning, map generation, visual odometry,
             EKF, SLAM, obstacle avoidance and various on-board sensors- IMU, GPS, Zed-2i Camera on NVIDIA Jetson Nano
             drove the e-Scooter autonomously.
     i18n: company_a_desc

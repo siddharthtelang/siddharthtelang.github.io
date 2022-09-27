@@ -1,6 +1,28 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Structure form Motion (SfM) - Classical Approach
+  i18n: SfM
+  gh_user: siddharthtelang
+  repo: SfM
+  img: /static/assets/img/landing/sfm.png
+  desc: 3D scene reconstruction and camera pose estimation given images from different views (Structure from Motion)
+
+- name: Panorama Stitching
+  i18n: Panorama_Stitching
+  gh_user: siddharthtelang
+  repo: Panorama_Stitching
+  img: /static/assets/img/landing/outlier_rejection_RANSAC.png
+  desc: Stitch two or more images in order to create one seamless panorama image.
+
+
+- name: Zhang Camera Calibration
+  i18n: Zhang_Camera_Calibration
+  gh_user: siddharthtelang
+  repo: Zhang_Camera_Calibration
+  img: /static/assets/img/landing/5draw.png
+  desc: Camera Calibration to find the Camera Intrinsics using Zhang's method.
+
 - name: Face and Pose Classification
   i18n: Face-and-Pose-Classification
   gh_user: siddharthtelang
