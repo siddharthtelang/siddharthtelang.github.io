@@ -20,7 +20,7 @@
     i18n: company_a
   desc:
     detail: Designed filter to filter out raw acceleration and velocities from joint sensors and cancel the plan if crossed threshold.
-            Visual Calibration of robot joints using April-Tag: Planned motion for the 9DOF robot at various waypoints, 
+            Visual Calibration of robot joints using April-Tag - Planned motion for the 9DOF robot at various waypoints, 
             capturing the April-Tag images through on-board camera to calculate the joint offsets by optimizing a loss function.
     i18n: company_a_desc
   date:
