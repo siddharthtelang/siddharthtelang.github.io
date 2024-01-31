@@ -1,6 +1,31 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Path Robotics
+    i18n: company_a
+  desc:
+    detail:
+            1. Segmentation, Object detection, and 6D Pose estimation using neural networks for Bin-Picking parts.
+            |
+            2. Improved the accuracy of pose estimation models for seamless bin picking by making the models 
+               more robust on real-world data when trained on synthetic/simulated data.
+            |
+            3. Conducted various calibrations during the setup phase, including robot-robot, camera, hand-eye, and eye-in-hand.
+            |
+            4. Oversaw end-to-end pipeline workflow of AF-1 from bin picking to final welding and reduced the cycle time by caching.
+            |
+            5. Developed code suitable for production, including thorough unit tests and comprehensive code coverage.
+    i18n: company_a_desc
+  date:
+    detail: Feb 2023 - Jan 2024
+    i18n: company_a_date
+  job:
+    detail: Computer Vision Software Engineer
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
     detail: University of Maryland, College Park
     i18n: company_a
   desc:
