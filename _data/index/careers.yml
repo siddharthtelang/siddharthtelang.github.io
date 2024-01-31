@@ -23,7 +23,7 @@
     detail: Computer Vision Software Engineer
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
+  present: false
 
 - name:
     detail: University of Maryland, College Park
@@ -38,7 +38,7 @@
     detail: Graduate Teaching Assistant
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
+  present: false
 
 - name:
     detail: Dexai Robotics
@@ -57,7 +57,7 @@
     detail: Robotics Intern
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
+  present: false
 
 - name:
     detail: CDCL, Maryland Robotics Center
@@ -77,7 +77,7 @@
     detail: Research Assistant
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
+  present: false
 
 - name:
     detail: Division of IT, University of Maryland
